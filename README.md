@@ -1,3 +1,5 @@
+Updated: 2025-08-20
+
 # Binance-new-coin-listing-
 Binance Bot that detects new coins the moment they are listed.
 </br>This Node.js bot will run on the server and checks for new binance coin listing every 15 seconds.
