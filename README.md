@@ -1,4 +1,4 @@
-Updated: 2026-07-27
+Updated: 2026-08-01
 
 # Binance-new-coin-listing-
 Binance Bot that detects new coins the moment they are listed.
